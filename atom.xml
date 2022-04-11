@@ -3,11 +3,11 @@
   <title>阅己笔记</title>
   
   <subtitle>emplay</subtitle>
-  <link href="https://gitee.com/emplay/emplay/atom.xml" rel="self"/>
+  <link href="https://blog.emplay.top/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/emplay/emplay/"/>
+  <link href="https://blog.emplay.top/"/>
   <updated>2022-04-02T01:36:55.529Z</updated>
-  <id>https://gitee.com/emplay/emplay/</id>
+  <id>https://blog.emplay.top/</id>
   
   <author>
     <name>emplay</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/emplay/emplay/posts/undefined.html"/>
-    <id>https://gitee.com/emplay/emplay/posts/undefined.html</id>
+    <link href="https://blog.emplay.top/posts/undefined.html"/>
+    <id>https://blog.emplay.top/posts/undefined.html</id>
     <published>2022-04-02T01:36:55.529Z</published>
     <updated>2022-04-02T01:36:55.529Z</updated>
     
